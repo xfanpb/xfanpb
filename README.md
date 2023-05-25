@@ -1,5 +1,5 @@
 
-## Hey! nice to meet you! 👋
+## Hey! nice to meet you! 👋 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xfanpb/xfanpb/blob/output/github-contribution-grid-snake-dark.svg" />
